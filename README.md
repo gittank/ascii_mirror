@@ -4,4 +4,5 @@ Runs on Rasberry PI
 
 # run
 source bin/activate
+
 python3 main.py
